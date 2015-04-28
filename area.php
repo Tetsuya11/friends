@@ -26,8 +26,7 @@ $link = mysql_connect('localhost','root','tetu1129');//データベース接続�
          mysql_select_db("FriendsSystem",$link);
 　　　　
          $errors = array();　tml>
-
-
+         
 
 
 ?>
